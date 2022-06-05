@@ -13,14 +13,14 @@ html::-webkit-scrollbar {
     background-color: rgba(23, 23, 23, 90%);
     border-radius: 10px;
     box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
-    border-left: 5px solid #1c75d2;
+    border-left: 5px solid #01A196;
 }
 
 .error {
     background-color: rgba(23, 23, 23, 90%);
     border-radius: 10px;
     box-shadow: 0rem 0rem 0.1rem 0.05rem #000000;
-    border-left: 5px solid #c10114;
+    border-left: 5px solid #01A196;
 }
 
 .police {
